@@ -1,0 +1,47 @@
+{
+    "exercicios": [
+        {
+            "id": 1,
+            "dia_da_semana": "Domingo",
+            "exercicios": "Pular corda, Flexão, Agachamento, Burpee",
+            "repetições": 5
+        },
+        {
+            "id": 2,
+            "dia_da_semana": "Segunda-feira",
+            "exercicios": "Apoio, Crucifixo, PullOver, Flexão",
+            "repetições": 4
+        },
+        {
+            "id": 3,
+            "dia_da_semana": "Terça-feira",
+            "exercicios": "Salto, Caixote, Agachamento Terra, Spraw",
+            "repetições": 6
+        },
+
+        {
+            "id": 4,
+            "dia_da_semana": "Quarta-feira",
+            "exercicios": "Subir e Descer Corda, Costas, Corrida 100m , Triceps",
+            "repetições": 4
+        },
+        {
+            "id": 5,
+            "dia_da_semana": "Quinta-feira",
+            "exercicios": "Martelo, Corrida em prancha, Sumo, Elevação lateral",
+            "repetições": 5
+        },
+        {
+            "id": 6,
+            "dia_da_semana": "Sexta-feira",
+            "exercicios": "Salto sobre caixote, Halteres , Pneu, Marreta",
+            "repetições": 3
+        },
+        {
+            "id": 7,
+            "dia_da_semana": "Sabado",
+            "exercicios": "Abdominal, Prancha, Barras, Isometria na Barra",
+            "repetições": 8
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{ 
+    "alunos": [
+        {
+            "id": 1,
+            "nome": "Yullo",
+            "status": "ativo"
+        },
+        {
+            "id": 2,
+            "nome": "Lucas",
+            "status": "ativo"
+        },
+        {
+            "id": 3,
+            "nome": "Apollo",
+            "status": "inativo"
+        },
+        {
+            "id": 4,
+            "nome": "Aurora",
+            "status": "inativo"
+        },
+        {
+            "id": 5,
+            "nome": "Rafael",
+            "status": "inativo"
+        },
+        {
+            "id": 6,
+            "nome": "Livia",
+            "status": "ativo"
+        }
+    ]
+}
